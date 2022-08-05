@@ -1,0 +1,5 @@
+- __dirname: path to current directory.
+- __filename: file name.
+- require: function to use modules.
+- module: info about current module.
+- process: info about the environment where the program is being executed.
